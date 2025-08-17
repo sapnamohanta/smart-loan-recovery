@@ -1,7 +1,3 @@
-Got it Sapna 🙌 — let’s make your README more attractive, visually appealing, and structured so it really stands out for the jury. I’ll add emojis, headers, visual dividers, and callout styles so each section is clearly bifurcated and memorable.
-
-Here’s the upgraded README.md:
-
 💡 Smart Loan Recovery
 
 Author: Sapna Mohanta
